@@ -1,6 +1,5 @@
-# Customer-Churn-Analysis-with-SQL-and-Tableau
+# Customer-Churn-Analysis-with-SQL-and-Tableau (2019–2022)
 
-# Churn Customers Analysis (2019–2022)
 
 
 *Dashboard Preview: Key metrics, refund trends, and churn rate analysis segmented by subscription type.*
