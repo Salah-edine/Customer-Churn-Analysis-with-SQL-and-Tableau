@@ -21,3 +21,7 @@ This repository hosts a customer churn analysis project analyzing trends in refu
 5. **Subscription Type Filter**: Segment data by subscription plans (e.g., Monthly, Annual, Lifetime).
 6. **Yearly Comparisons**: Filters to analyze data by year (2019–2022).
 
+## Tools and Technologies
+- **SQL**: For querying and analyzing data from the database.
+- **Tableau**: For creating interactive dashboards and visualizations.
+
